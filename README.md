@@ -41,7 +41,9 @@ npm run preview
 
 ## Render
 
-Static Site, raíz del repositorio, comando `npm ci && npm run build`, directorio de publicación `dist`, variable `VITE_PREVIEW=true`. La configuración también está en `render.yaml`. La URL de Render se documentará al finalizar el primer despliegue.
+Static Site, raíz del repositorio, comando `npm ci && npm run build`, directorio de publicación `dist`, variable `VITE_PREVIEW=true`. La configuración también está en `render.yaml`. Sitio publicado: https://pawly-web.onrender.com
+
+Repositorio: https://github.com/LeslieSc/pawly-web
 
 Las variables se leen con `import.meta.env.VITE_...`. Son públicas: nunca colocar contraseñas ni secretos del backend en ellas. `.env.local`, `node_modules/` y `dist/` están excluidos de Git. Se incluyen `.env.example` y `package-lock.json`.
 
