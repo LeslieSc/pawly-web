@@ -1,0 +1,146 @@
+[
+  {
+    "id": "6aff4dd185d34382a144df54",
+    "nombre": "Beagle",
+    "tamanoPromedio": "MEDIANO",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Mucho por descubrir en cada paseo. Guarda sus aventuras y mantén a mano su historial de cuidados.",
+    "paisOrigen": "Reino Unido"
+  },
+  {
+    "id": "6aff4dd185d34382a144df55",
+    "nombre": "Border collie",
+    "tamanoPromedio": "MEDIANO",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Paseos, juegos y nuevos desafíos para compartir. Acompaña su actividad diaria y conoce sus preferencias.",
+    "paisOrigen": "Reino Unido"
+  },
+  {
+    "id": "6aff4e7c85d34382a144df5c",
+    "nombre": "Boxer",
+    "tamanoPromedio": "GRANDE",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Juegos y compañía para disfrutar en familia. Guarda sus paseos y ten a mano su información veterinaria.",
+    "paisOrigen": "Alemania"
+  },
+  {
+    "id": "6aff4fc478a1be40641c0905",
+    "nombre": "Bulldog francés",
+    "tamanoPromedio": "PEQUEÑO",
+    "nivelEnergia": "MEDIO",
+    "descripcion": "Momentos tranquilos y salidas a su ritmo. Mantén sus cuidados organizados y sus citas a mano.",
+    "paisOrigen": "Francia"
+  },
+  {
+    "id": "6aff4e3585d34382a144df58",
+    "nombre": "Chihuahua",
+    "tamanoPromedio": "PEQUEÑO",
+    "nivelEnergia": "MEDIO",
+    "descripcion": "Un pequeño compañero con una gran historia por contar. Conserva sus datos, vacunas y momentos favoritos.",
+    "paisOrigen": "México"
+  },
+  {
+    "id": "6aff4f1da16ef4825f64f6c7",
+    "nombre": "Cocker spaniel",
+    "tamanoPromedio": "MEDIANO",
+    "nivelEnergia": "MEDIO",
+    "descripcion": "Paseos, compañía y pequeños cuidados cotidianos. Sigue sus rutinas y ten cerca sus datos importantes.",
+    "paisOrigen": "Reino Unido"
+  },
+  {
+    "id": "6aff4f20a16ef4825f64f6c9",
+    "nombre": "Dachshund",
+    "tamanoPromedio": "PEQUEÑO",
+    "nivelEnergia": "MEDIO",
+    "descripcion": "Un cuerpo alargado y una historia propia. Registra las actividades que disfruta y acompaña cada etapa de su vida.",
+    "paisOrigen": "Alemania"
+  },
+  {
+    "id": "6aff4e7c85d34382a144df5b",
+    "nombre": "Dálmata",
+    "tamanoPromedio": "GRANDE",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Manchas únicas y muchos momentos por compartir. Lleva contigo su perfil y el registro de sus actividades.",
+    "paisOrigen": "Croacia"
+  },
+  {
+    "id": "6aff4d626283ae7a252fce17",
+    "nombre": "Golden retriever",
+    "tamanoPromedio": "GRANDE",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Compañía, juego y tiempo al aire libre. Guarda sus paseos, cuidados y los momentos que compartes con él.",
+    "paisOrigen": "Escocia"
+  },
+  {
+    "id": "6aff4f1da16ef4825f64f6c6",
+    "nombre": "Husky siberiano",
+    "tamanoPromedio": "GRANDE",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Cada salida es una aventura compartida. Registra sus actividades y consulta su historial cuando lo necesites.",
+    "paisOrigen": "Rusia"
+  },
+  {
+    "id": "6aff4d626283ae7a252fce18",
+    "nombre": "Labrador retriever",
+    "tamanoPromedio": "GRANDE",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Salidas y juegos en familia. Registra su actividad y sigue sus rutinas de cuidado en un solo lugar.",
+    "paisOrigen": "Reino Unido"
+  },
+  {
+    "id": "6aff4cd45382658269728a04",
+    "nombre": "Mestizo",
+    "tamanoPromedio": "MEDIANO",
+    "nivelEnergia": "MEDIO",
+    "descripcion": "Una combinación única de rasgos y personalidad. Conoce sus hábitos y disfruta de las actividades que más le gustan.",
+    "paisOrigen": ""
+  },
+  {
+    "id": "6aff4dd485d34382a144df56",
+    "nombre": "Pastor alemán",
+    "tamanoPromedio": "GRANDE",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Una vida de compañía y aprendizaje juntos. Organiza su perfil, sus actividades y sus próximas visitas veterinarias.",
+    "paisOrigen": "Alemania"
+  },
+  {
+    "id": "6aff4f20a16ef4825f64f6c8",
+    "nombre": "Pomerania",
+    "tamanoPromedio": "PEQUEÑO",
+    "nivelEnergia": "MEDIO",
+    "descripcion": "Un compañero pequeño para grandes momentos juntos. Organiza sus cuidados y conserva el recuerdo de sus paseos.",
+    "paisOrigen": "Alemania"
+  },
+  {
+    "id": "6aff4dd485d34382a144df57",
+    "nombre": "Poodle",
+    "tamanoPromedio": "MEDIANO",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Cada día ofrece una oportunidad para jugar y aprender. Lleva un registro de sus paseos y de los cuidados de su pelaje.",
+    "paisOrigen": "Francia"
+  },
+  {
+    "id": "6aff4fc478a1be40641c0906",
+    "nombre": "San Bernardo",
+    "tamanoPromedio": "GRANDE",
+    "nivelEnergia": "MEDIO",
+    "descripcion": "Un gran compañero para el día a día. Reúne sus datos, paseos e historial de salud en su propio espacio.",
+    "paisOrigen": "Suiza"
+  },
+  {
+    "id": "6aff4e7985d34382a144df5a",
+    "nombre": "Schnauzer",
+    "tamanoPromedio": "MEDIANO",
+    "nivelEnergia": "ALTO",
+    "descripcion": "Compañía para los paseos de todos los días. Conoce su ritmo y organiza sus cuidados en familia.",
+    "paisOrigen": "Alemania"
+  },
+  {
+    "id": "6aff4e7985d34382a144df59",
+    "nombre": "Shiba inu",
+    "tamanoPromedio": "MEDIANO",
+    "nivelEnergia": "MEDIO",
+    "descripcion": "Explorar juntos, a su propio ritmo. Un espacio que reúne su actividad, salud y los detalles que lo hacen único.",
+    "paisOrigen": "Japón"
+  }
+]
