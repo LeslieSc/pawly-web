@@ -27,7 +27,7 @@ Registro de cuentas, login, cierre con revocación de sesión, menú recibido de
 
 ## Qué sigue en construcción
 
-Conexión del sitio público con una API y bases alojadas en la nube; acceso a cuentas desde el despliegue público; GPS y pasos automáticos, fotografías, edición de perfiles, formularios de vacunas y citas, notificaciones y comunidad. El avance publicado muestra el catálogo; no presenta las funciones locales como si ya estuvieran desplegadas.
+Conexión del sitio público con una API y bases alojadas en la nube; acceso a cuentas desde el despliegue público; GPS y pasos automáticos, fotografías, edición de perfiles, formularios de vacunas y citas, notificaciones y comunidad. El avance publicado muestra el catálogo. Los botones Entrar, Crear cuenta y Empezar juntos permanecen visibles; al pulsarlos se informa que el servicio no está disponible, sin pedir credenciales ni simular una sesión.
 
 ## Pruebas y compilación
 
